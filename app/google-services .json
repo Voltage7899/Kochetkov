@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "195241960368",
+    "project_id": "nemov-b1323",
+    "storage_bucket": "nemov-b1323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195241960368:android:157ae054ed357656442c75",
+        "android_client_info": {
+          "package_name": "com.company.nemov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195241960368-3m2fgr7jghdh7c1vpkk0674gvhdpjnt7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.nemov",
+            "certificate_hash": "fe4e9bc1c7296759fc9245eed3eb89e82f4db492"
+          }
+        },
+        {
+          "client_id": "195241960368-i80800uf06tcmhfbtm24uvf75ucpe5fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvz_vWdovXZQvxS1RmUE2kngovIuKEybE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195241960368-i80800uf06tcmhfbtm24uvf75ucpe5fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
