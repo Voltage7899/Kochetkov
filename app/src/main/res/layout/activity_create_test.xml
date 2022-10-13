@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FF7A00"
+    android:background="#2E8B57"
     tools:context=".CreateTest">
 
     <EditText
